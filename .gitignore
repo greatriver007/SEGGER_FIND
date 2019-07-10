@@ -30,3 +30,16 @@
 
 # Debug files
 *.dSYM/
+
+# Visual Studio
+Release/
+Debug/
+.vs/
+
+#UDPAnswer
+UDPAnswer.vcxproj.user
+UDPAnswer.sln
+
+#UDPDiscover
+UDPDiscover.vcxproj.user
+UDPDiscover.sln
